@@ -1,0 +1,8 @@
+
+*.py -eof=lf
+*.rb  eof=lf
+
+*.gif   -text
+*.jpg   -text
+*.png   -text
+*.tif   -text
